@@ -1,6 +1,4 @@
 ***************************************************
-* Name      :   Anisa Filfil
-* Student ID:   107592659
 * Class     :   CSCI 2421-001
 * HW #      :   4
 * Due Date  :   Oct. 14, 2019
